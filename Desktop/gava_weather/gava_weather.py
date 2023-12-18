@@ -1,0 +1,1 @@
+a=input("hola hijueputas")
